@@ -1,3 +1,8 @@
+body{
+  background-color: #1cdd26;
+  color: #ffffff;
+}
+
 div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
