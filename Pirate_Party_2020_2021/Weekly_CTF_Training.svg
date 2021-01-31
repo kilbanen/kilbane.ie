@@ -14,7 +14,10 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="Weekly_CTF_Training.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)"
+   inkscape:export-filename="/home/neil/Pirate_Party/Weekly_CTF_Training.png"
+   inkscape:export-xdpi="94.396156"
+   inkscape:export-ydpi="94.396156">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -24,17 +27,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1059"
+     inkscape:window-width="930"
+     inkscape:window-height="1027"
      id="namedview986"
      showgrid="false"
      inkscape:zoom="0.69375"
      inkscape:cx="960"
      inkscape:cy="540"
-     inkscape:window-x="0"
-     inkscape:window-y="21"
+     inkscape:window-x="970"
+     inkscape:window-y="33"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg8" />
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0" />
   <defs
      id="defs2">
     <linearGradient
@@ -215,9 +219,9 @@
      xml:space="preserve"
      id="text1395"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:33.5139px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect1397);fill:#ffffff;"
-     transform="translate(-55.749087,-51.323137)"><tspan
+     transform="translate(-83.75263,-51.323137)"><tspan
        x="146.88867"
-       y="88.763449"><tspan>Weekly CTF Training</tspan></tspan></text>
+       y="89.794525"><tspan>Weekly CTF Training</tspan></tspan></text>
   <g
      id="g1515"
      transform="matrix(0.004,0,0,0.004,483,25)">
@@ -245,10 +249,10 @@
      xml:space="preserve"
      id="text4725"
      style="font-size:33.5139px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4727);fill:#000000;"
-     transform="translate(109.50225,-23.047036)"><tspan
+     transform="translate(86.825915,-23.047036)"><tspan
        x="12.335938"
-       y="286.37087"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:33.5139px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff">Mondays @ 6pm</tspan></tspan></text>
+       y="287.40195"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:33.5139px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff">Tuesdays @ 6pm</tspan></tspan></text>
   <g
      id="layer2"
      style="display:inline" />
