@@ -4,7 +4,7 @@ body{
   font-family: sans-serif;
 }
 
-h1{
+#name{
   font-size: 6em;
   margin: 0;
   padding: 0;
@@ -22,4 +22,25 @@ h1{
 
 a{
   color: #1460AA;
+}
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
 }
