@@ -1,11 +1,10 @@
 body{
-  background-color: black;
-  color: #ffffff;
+  background-color: #1a1a1a;
+  color: snow;
   font-family: sans-serif;
 }
 
 #info{
-  font-size: 4em;
   margin: 0;
   padding: 0;
   text-align: center;
@@ -15,13 +14,45 @@ body{
   transform: translateX(-50%) translateY(-50%);
 }
 
-.menubar{
-  text-align: center;
+#info h1{
+  font-size: 8em;
+}
+
+#info h2{
   font-size: 2em;
 }
 
 a{
-  color: #1460AA;
+  color: white;
+}
+a:hover{
+  color: springgreen;
+}
+
+.menubar{
+  vertical-align: top;
+  margin: 0;
+  padding: 0;
+  background-color: seagreen;
+  color: #1a1a1a;
+  text-align: center;
+  font-size: 2em;
+  height: 7vh;
+  width: 100%;
+}
+
+.menubar button {
+  background-color: seagreen;
+  color: snow;
+  font-size: 1em;
+  border: none;
+  height: 7vh;
+  padding: 0;
+  margin: 0;
+}
+
+.menubar button:hover {
+  font-weight: bold;
 }
 
 div.gallery {
@@ -67,5 +98,9 @@ p{
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+}
+
+body {
+  padding: 0;
+  margin: 0;
 }
