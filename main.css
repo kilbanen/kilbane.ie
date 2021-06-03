@@ -23,35 +23,31 @@ body{
 }
 
 a{
-  color: white;
+  color: snow;
 }
 a:hover{
   color: springgreen;
 }
 
 .menubar{
-  vertical-align: top;
-  margin: 0;
-  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background-color: seagreen;
   color: #1a1a1a;
-  text-align: center;
   font-size: 2em;
   height: 7vh;
   width: 100%;
 }
 
-.menubar button {
-  background-color: seagreen;
+.menubar a {
   color: snow;
   font-size: 1em;
-  border: none;
-  height: 7vh;
-  padding: 0;
-  margin: 0;
+  text-decoration: none;
+  padding: 1%;
 }
 
-.menubar button:hover {
+.menubar a:hover {
   font-weight: bold;
 }
 
