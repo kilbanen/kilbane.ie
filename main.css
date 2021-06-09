@@ -24,9 +24,10 @@ body{
 
 a{
   color: snow;
+  text-decoration: none;
 }
 a:hover{
-  color: springgreen;
+  color: seagreen;
 }
 
 .menubar{
@@ -43,7 +44,6 @@ a:hover{
 .menubar a {
   color: snow;
   font-size: 1em;
-  text-decoration: none;
   padding: 1%;
 }
 
