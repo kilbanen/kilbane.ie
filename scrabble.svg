@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="scrabble.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1902"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="100mm"
+     inkscape:zoom="0.77058782"
+     inkscape:cx="199.19858"
+     inkscape:cy="561.9087"
+     inkscape:window-width="1916"
+     inkscape:window-height="1055"
+     inkscape:window-x="0"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <rect
+       x="470.80621"
+       y="668.7478"
+       width="68.438354"
+       height="106.97442"
+       id="rect28542" />
+    <rect
+       x="275.77847"
+       y="452.57144"
+       width="170.74992"
+       height="201.62981"
+       id="rect12208" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-42.246181,-89.2733)">
+    <rect
+       style="fill:#ffeeaa;fill-opacity:0.978757;stroke:#ffe680;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1828"
+       width="100"
+       height="100"
+       x="42.746181"
+       y="89.7733"
+       rx="2"
+       ry="2" />
+    <text
+       xml:space="preserve"
+       transform="matrix(5.8973672,0,0,4.8837914,-1558.6305,-2103.931)"
+       id="text12206"
+       style="font-size:13.1469px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect12208)"><tspan
+         x="275.7793"
+         y="464.20419"
+         id="tspan1915">S</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,6.0031192,-4.1515548)"
+       id="text28540"
+       style="font-size:53.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect28542)"><tspan
+         x="470.80664"
+         y="715.93552"
+         id="tspan1917">1</tspan></text>
+  </g>
+</svg>

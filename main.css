@@ -78,25 +78,26 @@ div.desc {
   margin-right: auto;
 }
 
-h1{
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-h2{
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-p{
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 body {
   padding: 0;
   margin: 0;
+}
+
+.projecttitle {
+  display: flex;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+}
+
+.projecttitle img {
+  height: 2em;
+}
+
+p {
+  margin: 0 20px 0 20px;
+}
+
+h1 {
+  margin: 20px 20px 0 20px;
 }
